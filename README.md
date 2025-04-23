@@ -12,4 +12,4 @@ Feel free to use as many epochs as you'd like—longer training can improve accu
 
 Make sure your dataset is properly labeled with directional arrows, and adjust the number of classes in the script if needed.
 
-![FNN Guided Car](./guided_car.jpg)
+![FNN Guided Car](./guidedCar.jpg)
